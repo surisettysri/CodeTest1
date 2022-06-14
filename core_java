@@ -1,0 +1,16 @@
+package core_java;
+
+public class listex {
+
+    public static void main(string[] args) {
+        ArrayList<Integer> list = new ArrayList<>();
+        list.add(e: 10); // 0
+        list.add(e: 20); // 1
+        list.add(e: 30); // 2
+        list.add(e: 40); // 3
+
+        System.out.println(list);
+    
+        
+    }
+}
